@@ -1,6 +1,8 @@
 /target
 /tests
 /archive
+/www/node_modules
+/www/dist
 **/*.rs.bk
 Cargo.lock
 bin/
