@@ -2,7 +2,7 @@
 /tests
 /archive
 /www/node_modules
-/www/dist
+/www/.bin
 **/*.rs.bk
 Cargo.lock
 bin/
