@@ -3,6 +3,7 @@
 /archive
 /www/node_modules
 /www/.bin
+/www/dist
 **/*.rs.bk
 Cargo.lock
 bin/
